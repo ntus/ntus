@@ -5,12 +5,8 @@
 </p>
 
 # Tomoki Noguchi / 野口 智樹
-
 **CEO, NT Micro Systems Inc. (株式会社NTマイクロシステムズ)**
-
-<!-- ここに X (@ntus) のプロフィール文を > 引用で入れる -->
-
-𝕏 [Follow @ntus on X](https://x.com/ntus) ・ 🌍 [Website](https://ntus.info)
+𝕏 [Follow @ntus on X](https://x.com/ntus)
 
 ---
 
