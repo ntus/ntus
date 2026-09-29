@@ -5,7 +5,9 @@
 </p>
 
 # Tomoki Noguchi / 野口 智樹
+
 **CEO, NT Micro Systems Inc. (株式会社NTマイクロシステムズ)**
+
 𝕏 [Follow @ntus on X](https://x.com/ntus)
 
 ---
